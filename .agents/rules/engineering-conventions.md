@@ -1,6 +1,6 @@
 # Hallazgos y reglas propuestas
 
-> **Estado:** propuesta para revisión del equipo. Estas reglas orientan cambios futuros; no describen todas las prácticas como políticas ya aprobadas.
+> **Estado:** análisis de origen (fase 2). Las reglas vigentes y vinculantes están en los demás archivos de esta carpeta (`api-and-contracts`, `dates-and-periods`, `testing`, `naming-and-structure`, `security-and-dependencies`, `docs-and-commits`), que desarrollan y refinan las diez reglas de abajo tras validarlas con tareas reales. Si este documento difiere de ellos, prevalecen ellos.
 
 ## Hallazgos agrupados
 
